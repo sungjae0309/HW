@@ -53,7 +53,7 @@ void timerCallback(TimerID timer) {
 
 
 
-
+//메인함수
 int main()
 {
 	setGameOption(GameOption::GAME_OPTION_ROOM_TITLE, false);
